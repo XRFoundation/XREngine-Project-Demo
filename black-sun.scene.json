@@ -139,7 +139,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/BlackSunClub_Updated_Properties.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/BlackSunClub_Updated_Properties.glb",
             "textureOverride": "",
             "matrixAutoUpdate": true
           }
@@ -154,7 +154,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/BlackSunClub_Updated_Properties.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/BlackSunClub_Updated_Properties.glb"
           }
         },
         {

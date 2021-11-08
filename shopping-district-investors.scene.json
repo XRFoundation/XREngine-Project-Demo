@@ -176,7 +176,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://resources.theoverlay.io/54b64820-3028-11ec-ac9f-0f921da614bf/Shopping District_v4 - With Slides.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Shopping District_v4 - With Slides.glb",
             "textureOverride": "",
             "matrixAutoUpdate": false
           }
@@ -191,7 +191,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://resources.theoverlay.io/54b64820-3028-11ec-ac9f-0f921da614bf/Shopping District_v4 - With Slides.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Shopping District_v4 - With Slides.glb"
           }
         },
         {
@@ -238,7 +238,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "hhttps://192.168.0.16:8642/projects/demo-xrengine-project/assets/Shopping_District-for investors_path.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Shopping_District-for investors_path.glb",
             "textureOverride": "",
             "matrixAutoUpdate": true
           }
@@ -253,7 +253,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Shopping_District-for investors_path.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Shopping_District-for investors_path.glb"
           }
         },
         {
@@ -437,7 +437,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://resources.theoverlay.io/af8874c0-f069-11eb-9639-7df03304fbde/shopping_district_investors_video_kiosk.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/shopping_district_investors_video_kiosk.glb",
             "textureOverride": "D54809F0-18C2-48E6-B783-06EA11FA8F04",
             "matrixAutoUpdate": true
           }
@@ -452,7 +452,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://resources.theoverlay.io/af8874c0-f069-11eb-9639-7df03304fbde/shopping_district_investors_video_kiosk.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/shopping_district_investors_video_kiosk.glb"
           }
         },
         {
@@ -499,7 +499,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://resources.theoverlay.io/b7a97320-f069-11eb-b774-b1f3202c2bd1/shopping_district_investors_video_TV.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/shopping_district_investors_video_TV.glb",
             "textureOverride": "4DE69501-734B-43A5-9ADD-B009AF809BF4",
             "matrixAutoUpdate": true
           }
@@ -514,7 +514,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://resources.theoverlay.io/b7a97320-f069-11eb-b774-b1f3202c2bd1/shopping_district_investors_video_TV.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/shopping_district_investors_video_TV.glb"
           }
         },
         {
@@ -561,7 +561,7 @@
         {
           "name": "video",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Kiosk.mp4",
+            "src": "__$project$__/demo-xrengine-project/assets/Kiosk.mp4",
             "isLivestream": false,
             "controls": true,
             "autoPlay": true,
@@ -607,7 +607,7 @@
         {
           "name": "video",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/TV.mp4",
+            "src": "__$project$__/demo-xrengine-project/assets/TV.mp4",
             "isLivestream": false,
             "controls": true,
             "autoPlay": true,

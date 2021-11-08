@@ -225,9 +225,13 @@
           }
         },
         {
+          "name": "includeInCubemapBake",
+          "props": {}
+        },
+        {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Rooftop_demo_withoutpath.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Rooftop_demo_withoutpath.glb",
             "textureOverride": ""
           }
         },
@@ -241,7 +245,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Rooftop_demo_withoutpath.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Rooftop_demo_withoutpath.glb"
           }
         },
         {
@@ -257,7 +261,7 @@
       "index": 3
     },
     "077FCF21-4669-4B67-A3E3-78D4B38EF7E9": {
-      "name": "blackwidow_keyboard 5",
+      "name": "blackwidow_keyboard 19",
       "components": [
         {
           "name": "transform",
@@ -288,7 +292,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/BlackWidow_Keyboard.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/BlackWidow_Keyboard.glb",
             "textureOverride": ""
           }
         },
@@ -307,7 +311,7 @@
             "interactionText": "ASCEND TO ANALOG Enter a higher dimension of control with the ARENA Huntsman V2 Analog—our first analog optical gaming keyboard. Armed with every feature you’d expect from a top-of-the-line design, you’ll want for nothing in your pursuit of victory.  ANALOG OPTICAL SWITCHES Actuation at the speed of light now comes with more granular control. Fitted with our latest and most advanced switches, the ARENA Huntsman V2 Analog redefines the limits of what a gaming keyboard can do.  ADJUSTABLE ACTUATION Choose How You Play. From a light, responsive 1.5 mm height for fast-paced gaming, to a full 3.6 mm actuation for deeper, more deliberate keystrokes, these switches can be tailored to your playstyle.  ANALOG INPUT Finer Movement Control. Do away with rigid 8-way WASD movement for FPS and racing games with switches capable of smooth 360-degree motion inputs just like analog joysticks and thumbsticks.  DUAL-STEP ACTUATION Streamline Your Actions. With the ability to set two functions within one keypress, you’ll be able to make more efficient plays especially when it comes to executing advanced combos and skill rotations.  DOUBLESHOT PBT KEYCAPS Harder and more durable than ABS plastic, the sturdy, textured keycaps on this analog optical gaming keyboard won’t wear down to a shiny finish and have labels which will never fade thanks to their doubleshot molding process.  POWERED BY ARENA Chromo™ RGB With 16.8 million colors and a suite of effects, sync its per-key lighting and underglow with the rest of your battlestation, and enjoy greater immersion as it dynamically reacts with over 150 integrated games.  MAGNETIC PLUSH LEATHERETTE WRIST REST Featuring ARENA Chromo™ RGB underglow, the soft, cushioned wrist support magnetically snaps to the keyboard to relieve pressure on your wrists, so you feel less fatigued when gaming over long periods.  MULTI-FUNCTION DIGITAL DIAL AND 4 MEDIA KEYS Configure them to pause, play, skip and tweak everything from brightness to volume—the ultimate convenience as you enjoy your entertainment.  USB 3.0 PASSTHROUGH Instead of reaching over to your rig to plug in a device, you can connect it conveniently to your PC via a USB port in this analog optical gaming keyboard.",
             "payloadName": "BlackWidow Keyboard",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-keyboards/ARENA-huntsman-v2-analog/RZ03-03610200-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/BlackWidow_Keyboard.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/BlackWidow_Keyboard.glb"
           }
         },
         {
@@ -323,7 +327,7 @@
       "index": 4
     },
     "D0B4E12E-4359-4D3C-A1D5-01C34B8AEBD9": {
-      "name": "blackwidow_keyboard 6",
+      "name": "blackwidow_keyboard 20",
       "components": [
         {
           "name": "transform",
@@ -354,7 +358,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/BlackWidow_Keyboard-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/BlackWidow_Keyboard-2.glb",
             "textureOverride": ""
           }
         },
@@ -373,7 +377,7 @@
             "interactionText": "ASCEND TO ANALOG Enter a higher dimension of control with the ARENA Huntsman V2 Analog—our first analog optical gaming keyboard. Armed with every feature you’d expect from a top-of-the-line design, you’ll want for nothing in your pursuit of victory.  ANALOG OPTICAL SWITCHES Actuation at the speed of light now comes with more granular control. Fitted with our latest and most advanced switches, the ARENA Huntsman V2 Analog redefines the limits of what a gaming keyboard can do.  ADJUSTABLE ACTUATION Choose How You Play. From a light, responsive 1.5 mm height for fast-paced gaming, to a full 3.6 mm actuation for deeper, more deliberate keystrokes, these switches can be tailored to your playstyle.  ANALOG INPUT Finer Movement Control. Do away with rigid 8-way WASD movement for FPS and racing games with switches capable of smooth 360-degree motion inputs just like analog joysticks and thumbsticks.  DUAL-STEP ACTUATION Streamline Your Actions. With the ability to set two functions within one keypress, you’ll be able to make more efficient plays especially when it comes to executing advanced combos and skill rotations.  DOUBLESHOT PBT KEYCAPS Harder and more durable than ABS plastic, the sturdy, textured keycaps on this analog optical gaming keyboard won’t wear down to a shiny finish and have labels which will never fade thanks to their doubleshot molding process.  POWERED BY ARENA Chromo™ RGB With 16.8 million colors and a suite of effects, sync its per-key lighting and underglow with the rest of your battlestation, and enjoy greater immersion as it dynamically reacts with over 150 integrated games.  MAGNETIC PLUSH LEATHERETTE WRIST REST Featuring ARENA Chromo™ RGB underglow, the soft, cushioned wrist support magnetically snaps to the keyboard to relieve pressure on your wrists, so you feel less fatigued when gaming over long periods.  MULTI-FUNCTION DIGITAL DIAL AND 4 MEDIA KEYS Configure them to pause, play, skip and tweak everything from brightness to volume—the ultimate convenience as you enjoy your entertainment.  USB 3.0 PASSTHROUGH Instead of reaching over to your rig to plug in a device, you can connect it conveniently to your PC via a USB port in this analog optical gaming keyboard.",
             "payloadName": "BlackWidow Keyboard",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-keyboards/ARENA-huntsman-v2-analog/RZ03-03610200-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/BlackWidow_Keyboard-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/BlackWidow_Keyboard-2.glb"
           }
         },
         {
@@ -420,7 +424,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Headphones_Black.glb",
             "textureOverride": ""
           }
         },
@@ -439,7 +443,7 @@
             "interactionText": "ARENA™ HYPERSPEED WIRELESS With a high-speed transmission and extremely low latency, this wireless esports headset has an industry-leading 2.4GHz wireless connection to ensure lossless audio that’ll always stay synced to your game.  ARENA™ TRIFORCE TITANIUM 50MM DRIVERS Our all-new patented design allows our engineers to custom tune each driver as though there are three—allowing for the individual replications of high, mid and low audio frequencies to deliver on richer trebles, brighter sound and powerful bass.  The ARENA BlackShark V2 Pro also includes titanium-coated diaphragms, giving added clarity to any vocals you hear so that any comms you receive is always crisp and clear.  ARENA™ HYPERCLEAR SUPERCARDIOID MIC The pickup pattern on this detachable 9.9mm mic has more noise rejection from the sides as compared to a cardioid mic, and provides a true recreation of your voice thanks to a sensitive low frequency response and an open microphone housing designed for minimal obstruction. Includes ARENA Synapse 3 support for access to advanced mic settings.  ADVANCED PASSIVE NOISE CANCELLATION From cheering crowds to the hum of your rig, this wireless esports headset shuts out noise using special closed earcups that fully cover your ears, aided by plush cushions that form a perfect seal for greater sound isolation.  FLOWKNIT MEMORY FOAM EAR CUSHIONS Our new breathable weave minimizes sweat and heat build-up generated by skin contact, while the ultra-soft foam’s improved density greatly reduces the headset’s clamping force.  THX SPATIAL AUDIO Increase your immersion and in-game awareness with next-gen surround sound that provides pinpoint positional accuracy and true-to-life acoustics, as you press your advantage with its latest feature: THX Game Profiles. Apply custom-tuned profiles that enhance existing sound design in your favorite games. Choose between THX Environmental Mode for truly lifelike immersion, or THX Competitive Mode for greater spatial awareness.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Headphones Blackshark Black",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-headsets/razer-blackshark-v2-pro/RZ04-03220100-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Headphones_Black.glb"
           }
         },
         {
@@ -486,7 +490,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Black-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Headphones_Black-2.glb",
             "textureOverride": ""
           }
         },
@@ -505,7 +509,7 @@
             "interactionText": "ARENA™ HYPERSPEED WIRELESS With a high-speed transmission and extremely low latency, this wireless esports headset has an industry-leading 2.4GHz wireless connection to ensure lossless audio that’ll always stay synced to your game.  ARENA™ TRIFORCE TITANIUM 50MM DRIVERS Our all-new patented design allows our engineers to custom tune each driver as though there are three—allowing for the individual replications of high, mid and low audio frequencies to deliver on richer trebles, brighter sound and powerful bass.  The ARENA BlackShark V2 Pro also includes titanium-coated diaphragms, giving added clarity to any vocals you hear so that any comms you receive is always crisp and clear.  ARENA™ HYPERCLEAR SUPERCARDIOID MIC The pickup pattern on this detachable 9.9mm mic has more noise rejection from the sides as compared to a cardioid mic, and provides a true recreation of your voice thanks to a sensitive low frequency response and an open microphone housing designed for minimal obstruction. Includes ARENA Synapse 3 support for access to advanced mic settings.  ADVANCED PASSIVE NOISE CANCELLATION From cheering crowds to the hum of your rig, this wireless esports headset shuts out noise using special closed earcups that fully cover your ears, aided by plush cushions that form a perfect seal for greater sound isolation.  FLOWKNIT MEMORY FOAM EAR CUSHIONS Our new breathable weave minimizes sweat and heat build-up generated by skin contact, while the ultra-soft foam’s improved density greatly reduces the headset’s clamping force.  THX SPATIAL AUDIO Increase your immersion and in-game awareness with next-gen surround sound that provides pinpoint positional accuracy and true-to-life acoustics, as you press your advantage with its latest feature: THX Game Profiles. Apply custom-tuned profiles that enhance existing sound design in your favorite games. Choose between THX Environmental Mode for truly lifelike immersion, or THX Competitive Mode for greater spatial awareness.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Headphones Blackshark Black",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-headsets/razer-blackshark-v2-pro/RZ04-03220100-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Black-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Headphones_Black-2.glb"
           }
         },
         {
@@ -552,7 +556,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Black-3.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Headphones_Black-3.glb",
             "textureOverride": ""
           }
         },
@@ -571,7 +575,7 @@
             "interactionText": "ARENA™ HYPERSPEED WIRELESS With a high-speed transmission and extremely low latency, this wireless esports headset has an industry-leading 2.4GHz wireless connection to ensure lossless audio that’ll always stay synced to your game.  ARENA™ TRIFORCE TITANIUM 50MM DRIVERS Our all-new patented design allows our engineers to custom tune each driver as though there are three—allowing for the individual replications of high, mid and low audio frequencies to deliver on richer trebles, brighter sound and powerful bass.  The ARENA BlackShark V2 Pro also includes titanium-coated diaphragms, giving added clarity to any vocals you hear so that any comms you receive is always crisp and clear.  ARENA™ HYPERCLEAR SUPERCARDIOID MIC The pickup pattern on this detachable 9.9mm mic has more noise rejection from the sides as compared to a cardioid mic, and provides a true recreation of your voice thanks to a sensitive low frequency response and an open microphone housing designed for minimal obstruction. Includes ARENA Synapse 3 support for access to advanced mic settings.  ADVANCED PASSIVE NOISE CANCELLATION From cheering crowds to the hum of your rig, this wireless esports headset shuts out noise using special closed earcups that fully cover your ears, aided by plush cushions that form a perfect seal for greater sound isolation.  FLOWKNIT MEMORY FOAM EAR CUSHIONS Our new breathable weave minimizes sweat and heat build-up generated by skin contact, while the ultra-soft foam’s improved density greatly reduces the headset’s clamping force.  THX SPATIAL AUDIO Increase your immersion and in-game awareness with next-gen surround sound that provides pinpoint positional accuracy and true-to-life acoustics, as you press your advantage with its latest feature: THX Game Profiles. Apply custom-tuned profiles that enhance existing sound design in your favorite games. Choose between THX Environmental Mode for truly lifelike immersion, or THX Competitive Mode for greater spatial awareness.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Headphones Blackshark Black",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-headsets/razer-blackshark-v2-pro/RZ04-03220100-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Black-3.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Headphones_Black-3.glb"
           }
         },
         {
@@ -618,7 +622,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Headphones_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -637,7 +641,7 @@
             "interactionText": "ARENA™ HYPERSPEED WIRELESS With a high-speed transmission and extremely low latency, this wireless esports headset has an industry-leading 2.4GHz wireless connection to ensure lossless audio that’ll always stay synced to your game.  ARENA™ TRIFORCE TITANIUM 50MM DRIVERS Our all-new patented design allows our engineers to custom tune each driver as though there are three—allowing for the individual replications of high, mid and low audio frequencies to deliver on richer trebles, brighter sound and powerful bass.  The ARENA BlackShark V2 Pro also includes titanium-coated diaphragms, giving added clarity to any vocals you hear so that any comms you receive is always crisp and clear.  ARENA™ HYPERCLEAR SUPERCARDIOID MIC The pickup pattern on this detachable 9.9mm mic has more noise rejection from the sides as compared to a cardioid mic, and provides a true recreation of your voice thanks to a sensitive low frequency response and an open microphone housing designed for minimal obstruction. Includes ARENA Synapse 3 support for access to advanced mic settings.  ADVANCED PASSIVE NOISE CANCELLATION From cheering crowds to the hum of your rig, this wireless esports headset shuts out noise using special closed earcups that fully cover your ears, aided by plush cushions that form a perfect seal for greater sound isolation.  FLOWKNIT MEMORY FOAM EAR CUSHIONS Our new breathable weave minimizes sweat and heat build-up generated by skin contact, while the ultra-soft foam’s improved density greatly reduces the headset’s clamping force.  THX SPATIAL AUDIO Increase your immersion and in-game awareness with next-gen surround sound that provides pinpoint positional accuracy and true-to-life acoustics, as you press your advantage with its latest feature: THX Game Profiles. Apply custom-tuned profiles that enhance existing sound design in your favorite games. Choose between THX Environmental Mode for truly lifelike immersion, or THX Competitive Mode for greater spatial awareness.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Headphones Blackshark Pink",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-headsets/razer-blackshark-v2-pro/RZ04-03220100-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Headphones_Pink.glb"
           }
         },
         {
@@ -684,7 +688,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_White.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Headphones_White.glb",
             "textureOverride": ""
           }
         },
@@ -703,7 +707,7 @@
             "interactionText": "ARENA™ HYPERSPEED WIRELESS With a high-speed transmission and extremely low latency, this wireless esports headset has an industry-leading 2.4GHz wireless connection to ensure lossless audio that’ll always stay synced to your game.  ARENA™ TRIFORCE TITANIUM 50MM DRIVERS Our all-new patented design allows our engineers to custom tune each driver as though there are three—allowing for the individual replications of high, mid and low audio frequencies to deliver on richer trebles, brighter sound and powerful bass.  The ARENA BlackShark V2 Pro also includes titanium-coated diaphragms, giving added clarity to any vocals you hear so that any comms you receive is always crisp and clear.  ARENA™ HYPERCLEAR SUPERCARDIOID MIC The pickup pattern on this detachable 9.9mm mic has more noise rejection from the sides as compared to a cardioid mic, and provides a true recreation of your voice thanks to a sensitive low frequency response and an open microphone housing designed for minimal obstruction. Includes ARENA Synapse 3 support for access to advanced mic settings.  ADVANCED PASSIVE NOISE CANCELLATION From cheering crowds to the hum of your rig, this wireless esports headset shuts out noise using special closed earcups that fully cover your ears, aided by plush cushions that form a perfect seal for greater sound isolation.  FLOWKNIT MEMORY FOAM EAR CUSHIONS Our new breathable weave minimizes sweat and heat build-up generated by skin contact, while the ultra-soft foam’s improved density greatly reduces the headset’s clamping force.  THX SPATIAL AUDIO Increase your immersion and in-game awareness with next-gen surround sound that provides pinpoint positional accuracy and true-to-life acoustics, as you press your advantage with its latest feature: THX Game Profiles. Apply custom-tuned profiles that enhance existing sound design in your favorite games. Choose between THX Environmental Mode for truly lifelike immersion, or THX Competitive Mode for greater spatial awareness.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Headphones Blackshark White",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-headsets/razer-blackshark-v2-pro/RZ04-03220100-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Headphones_White.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Headphones_White.glb"
           }
         },
         {
@@ -750,7 +754,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Huntsman_Keyboard_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Huntsman_Keyboard_Black.glb",
             "textureOverride": ""
           }
         },
@@ -769,7 +773,7 @@
             "interactionText": "ASCEND TO ANALOG Enter a higher dimension of control with the ARENA Huntsman V2 Analog—our first analog optical gaming keyboard. Armed with every feature you’d expect from a top-of-the-line design, you’ll want for nothing in your pursuit of victory.  ANALOG OPTICAL SWITCHES Actuation at the speed of light now comes with more granular control. Fitted with our latest and most advanced switches, the ARENA Huntsman V2 Analog redefines the limits of what a gaming keyboard can do.  ADJUSTABLE ACTUATION Choose How You Play. From a light, responsive 1.5 mm height for fast-paced gaming, to a full 3.6 mm actuation for deeper, more deliberate keystrokes, these switches can be tailored to your playstyle.  ANALOG INPUT Finer Movement Control. Do away with rigid 8-way WASD movement for FPS and racing games with switches capable of smooth 360-degree motion inputs just like analog joysticks and thumbsticks.  DUAL-STEP ACTUATION Streamline Your Actions. With the ability to set two functions within one keypress, you’ll be able to make more efficient plays especially when it comes to executing advanced combos and skill rotations.  DOUBLESHOT PBT KEYCAPS Harder and more durable than ABS plastic, the sturdy, textured keycaps on this analog optical gaming keyboard won’t wear down to a shiny finish and have labels which will never fade thanks to their doubleshot molding process.  POWERED BY ARENA Chromo™ RGB With 16.8 million colors and a suite of effects, sync its per-key lighting and underglow with the rest of your battlestation, and enjoy greater immersion as it dynamically reacts with over 150 integrated games.  MAGNETIC PLUSH LEATHERETTE WRIST REST Featuring ARENA Chromo™ RGB underglow, the soft, cushioned wrist support magnetically snaps to the keyboard to relieve pressure on your wrists, so you feel less fatigued when gaming over long periods.  MULTI-FUNCTION DIGITAL DIAL AND 4 MEDIA KEYS Configure them to pause, play, skip and tweak everything from brightness to volume—the ultimate convenience as you enjoy your entertainment.  USB 3.0 PASSTHROUGH Instead of reaching over to your rig to plug in a device, you can connect it conveniently to your PC via a USB port in this analog optical gaming keyboard.",
             "payloadName": "Huntsman Keyboard Black",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-keyboards/ARENA-huntsman-v2-analog/RZ03-03610200-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Huntsman_Keyboard_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Huntsman_Keyboard_Black.glb"
           }
         },
         {
@@ -816,7 +820,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Huntsman_Keyboard_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Huntsman_Keyboard_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -835,7 +839,7 @@
             "interactionText": "ASCEND TO ANALOG Enter a higher dimension of control with the ARENA Huntsman V2 Analog—our first analog optical gaming keyboard. Armed with every feature you’d expect from a top-of-the-line design, you’ll want for nothing in your pursuit of victory.  ANALOG OPTICAL SWITCHES Actuation at the speed of light now comes with more granular control. Fitted with our latest and most advanced switches, the ARENA Huntsman V2 Analog redefines the limits of what a gaming keyboard can do.  ADJUSTABLE ACTUATION Choose How You Play. From a light, responsive 1.5 mm height for fast-paced gaming, to a full 3.6 mm actuation for deeper, more deliberate keystrokes, these switches can be tailored to your playstyle.  ANALOG INPUT Finer Movement Control. Do away with rigid 8-way WASD movement for FPS and racing games with switches capable of smooth 360-degree motion inputs just like analog joysticks and thumbsticks.  DUAL-STEP ACTUATION Streamline Your Actions. With the ability to set two functions within one keypress, you’ll be able to make more efficient plays especially when it comes to executing advanced combos and skill rotations.  DOUBLESHOT PBT KEYCAPS Harder and more durable than ABS plastic, the sturdy, textured keycaps on this analog optical gaming keyboard won’t wear down to a shiny finish and have labels which will never fade thanks to their doubleshot molding process.  POWERED BY ARENA Chromo™ RGB With 16.8 million colors and a suite of effects, sync its per-key lighting and underglow with the rest of your battlestation, and enjoy greater immersion as it dynamically reacts with over 150 integrated games.  MAGNETIC PLUSH LEATHERETTE WRIST REST Featuring ARENA Chromo™ RGB underglow, the soft, cushioned wrist support magnetically snaps to the keyboard to relieve pressure on your wrists, so you feel less fatigued when gaming over long periods.  MULTI-FUNCTION DIGITAL DIAL AND 4 MEDIA KEYS Configure them to pause, play, skip and tweak everything from brightness to volume—the ultimate convenience as you enjoy your entertainment.  USB 3.0 PASSTHROUGH Instead of reaching over to your rig to plug in a device, you can connect it conveniently to your PC via a USB port in this analog optical gaming keyboard.",
             "payloadName": "Huntsman Keyboard White",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-keyboards/ARENA-huntsman-v2-analog/RZ03-03610200-R3U1",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Huntsman_Keyboard_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Huntsman_Keyboard_Pink.glb"
           }
         },
         {
@@ -882,7 +886,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/LaptopOne.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/LaptopOne.glb",
             "textureOverride": ""
           }
         },
@@ -902,7 +906,7 @@
             "payloadName": "Laptop Razer Blade",
             "payloadBuyUrl": "https://www.razer.com/gaming-laptops/Razer-Blade-15/RZ09-0367CE53-R3U1",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-laptops/razer-blade",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/LaptopOne.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/LaptopOne.glb"
           }
         },
         {
@@ -949,7 +953,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/LaptopTwo.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/LaptopTwo.glb",
             "textureOverride": ""
           }
         },
@@ -969,7 +973,7 @@
             "payloadName": "Laptop Razer Blade",
             "payloadBuyUrl": "https://www.razer.com/gaming-laptops/Razer-Blade-15/RZ09-0367CE53-R3U1",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming-laptops/razer-blade",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/LaptopTwo.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/LaptopTwo.glb"
           }
         },
         {
@@ -1016,7 +1020,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mic_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Mic_Black.glb",
             "textureOverride": ""
           }
         },
@@ -1030,7 +1034,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mic_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Mic_Black.glb"
           }
         },
         {
@@ -1077,7 +1081,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mic_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Mic_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -1091,7 +1095,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mic_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Mic_Pink.glb"
           }
         },
         {
@@ -1138,7 +1142,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/mic_station.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/mic_station.glb",
             "textureOverride": ""
           }
         },
@@ -1152,7 +1156,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/mic_station.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/mic_station.glb"
           }
         },
         {
@@ -1199,7 +1203,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/mic_station-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/mic_station-2.glb",
             "textureOverride": ""
           }
         },
@@ -1213,7 +1217,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/mic_station-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/mic_station-2.glb"
           }
         },
         {
@@ -1260,7 +1264,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mic_White.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Mic_White.glb",
             "textureOverride": ""
           }
         },
@@ -1274,7 +1278,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mic_White.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Mic_White.glb"
           }
         },
         {
@@ -1321,7 +1325,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mouse_Mamba_Station.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Mouse_Mamba_Station.glb",
             "textureOverride": ""
           }
         },
@@ -1340,7 +1344,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Mamba",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mouse_Mamba_Station.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Mouse_Mamba_Station.glb"
           }
         },
         {
@@ -1387,7 +1391,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mouse_Mamba_Station-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Mouse_Mamba_Station-2.glb",
             "textureOverride": ""
           }
         },
@@ -1406,7 +1410,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Mamba",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Mouse_Mamba_Station-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Mouse_Mamba_Station-2.glb"
           }
         },
         {
@@ -1453,7 +1457,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/mousepad.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/mousepad.glb",
             "textureOverride": ""
           }
         },
@@ -1467,7 +1471,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/mousepad.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/mousepad.glb"
           }
         },
         {
@@ -1514,7 +1518,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_2B_Black.glb",
             "textureOverride": ""
           }
         },
@@ -1533,7 +1537,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 2 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_2B_Black.glb"
           }
         },
         {
@@ -1580,7 +1584,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_2B_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -1599,7 +1603,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 2 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_2B_Pink.glb"
           }
         },
         {
@@ -1646,7 +1650,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_White.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_2B_White.glb",
             "textureOverride": ""
           }
         },
@@ -1665,7 +1669,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 2 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_White.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_2B_White.glb"
           }
         },
         {
@@ -1712,7 +1716,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_White-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_2B_White-2.glb",
             "textureOverride": ""
           }
         },
@@ -1731,7 +1735,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 2 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_2B_White-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_2B_White-2.glb"
           }
         },
         {
@@ -1778,7 +1782,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_7B_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_7B_Black.glb",
             "textureOverride": ""
           }
         },
@@ -1797,7 +1801,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 7 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_7B_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_7B_Black.glb"
           }
         },
         {
@@ -1844,7 +1848,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_7B_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_7B_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -1863,7 +1867,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 7 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_7B_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_7B_Pink.glb"
           }
         },
         {
@@ -1910,7 +1914,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_7B_White.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_7B_White.glb",
             "textureOverride": ""
           }
         },
@@ -1929,7 +1933,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 7 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_7B_White.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_7B_White.glb"
           }
         },
         {
@@ -1976,7 +1980,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_12B_Black.glb",
             "textureOverride": ""
           }
         },
@@ -1995,7 +1999,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 12 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_12B_Black.glb"
           }
         },
         {
@@ -2042,7 +2046,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_12B_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -2061,7 +2065,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 12 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_12B_Pink.glb"
           }
         },
         {
@@ -2108,7 +2112,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_Pink-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_12B_Pink-2.glb",
             "textureOverride": ""
           }
         },
@@ -2127,7 +2131,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 12 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_Pink-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_12B_Pink-2.glb"
           }
         },
         {
@@ -2174,7 +2178,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_White-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_12B_White-2.glb",
             "textureOverride": ""
           }
         },
@@ -2193,7 +2197,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Mouse Naga 12 Buttons",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_12B_White-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_12B_White-2.glb"
           }
         },
         {
@@ -2240,7 +2244,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_Mouse_Combo_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_Mouse_Combo_Black.glb",
             "textureOverride": ""
           }
         },
@@ -2259,7 +2263,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Naga mouse combo",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_Mouse_Combo_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_Mouse_Combo_Black.glb"
           }
         },
         {
@@ -2306,7 +2310,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_Mouse_Combo_White.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Naga_Mouse_Combo_White.glb",
             "textureOverride": ""
           }
         },
@@ -2325,7 +2329,7 @@
             "interactionText": "ARENA VIPER 8KHz ABSOLUTE CONTROL. ELEVATED.  Attain the next level of absolute control with the ARENA Viper 8KHz—an ambidextrous esports gaming mouse with a true 8000 Hz polling rate for the fastest speed and lowest latency ever achieved. Upgraded with 2nd-gen ARENA™ Optical Switches, it’s time to rise to the occasion and leave it all on the floor.  OUTPACE THE COMPETITION. BY 8X. INTRODUCING ARENA™ HYPERPOLLING TECHNOLOGY. ARENA™ HyperPolling Technology surpasses the industry standard with a true 8000 Hz polling rate— sending up to 8 times more data in a second and reducing delay from 1 to 1/8th of a millisecond.  Unlike mice with lower polling rates where cursor movement can exhibit inconsistent micro-stutters, ARENA™ HyperPolling Technology ensures ultra-smooth cursor movement—a difference that’s even more apparent on high refresh rate monitors.  ZERO RISK OF MISCLICKS. 2ND-GEN ARENA™ OPTICAL MOUSE SWITCH. Improved with greater tactile feedback, every click now feels and sounds more satisfying. And with no need for a debounce delay used in traditional switches, this lightning-fast actuation is complemented by ARENA™ HyperPolling Technology to provide the lowest input latency that gets you closer to playing like a pro.  FINE-TUNED FOR PIXEL-PERFECT AIM. ARENA™ FOCUS+ OPTICAL SENSOR. With an industry-leading 99.6% resolution accuracy, even the finest movement from this ambidextrous esports gaming mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots.  A HEAVY-HITTER THAT WEIGHS ANYTHING BUT. 71G LIGHTWEIGHT DESIGN. Enjoy faster and smoother control with one of the lightest gaming mice in the market. Weighing just 71g, what’s even more impressive is that it achieves its weight without compromising on the build strength of its ambidextrous form factor.  FIRST-CLASS PERFORMANCE. DOWN TO EVERY LAST DETAIL.  ADVANCED ON-BOARD MEMORY Be ready to compete anywhere with up to 5 stored profiles that give you access to optimal keybinds, macros, and twice the inputs via the ARENA HyperShift function.  ARENA™ SPEEDFLEX CABLE Woven for greater flexibility and designed to produce minimal drag, you’ll be able to perform quicker, smoother swipes for tighter mouse control.  INJECTION-MOLDED RUBBER SIDE GRIPS For more secure swipes, the mouse has rubber grips that fully cover its left and right side—molded as part of the shell to ensure they never peel off.  100% PTFE MOUSE FEET This ambidextrous esports gaming mouse is able to glide across any surface thanks to mouse feet made from the purest, highest grade of PTFE.  8 PROGRAMMABLE BUTTONS Fully configurable via ARENA Synapse 3, the 8 programmable buttons let you access macros and secondary functions for an advanced degree of control.  WE’VE GOT YOU COVERED Get up to 2 years of warranty and access reliable tech support. Purchase directly from ARENAStore and get 14 days risk-free returns.",
             "payloadName": "Naga mouse combo",
             "payloadLearnMoreUrl": "https://www.razer.com/gaming/mice/razer-viper-8khz",
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Naga_Mouse_Combo_White.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Naga_Mouse_Combo_White.glb"
           }
         },
         {
@@ -2372,7 +2376,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Raiju_Controller_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Raiju_Controller_Black.glb",
             "textureOverride": ""
           }
         },
@@ -2386,7 +2390,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Raiju_Controller_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Raiju_Controller_Black.glb"
           }
         },
         {
@@ -2433,7 +2437,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/raiju_controller_black-2.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/raiju_controller_black-2.glb",
             "textureOverride": ""
           }
         },
@@ -2447,7 +2451,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/raiju_controller_black-2.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/raiju_controller_black-2.glb"
           }
         },
         {
@@ -2494,7 +2498,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/raiju_controller_black-3.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/raiju_controller_black-3.glb",
             "textureOverride": ""
           }
         },
@@ -2508,7 +2512,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/raiju_controller_black-3.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/raiju_controller_black-3.glb"
           }
         },
         {
@@ -2555,7 +2559,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Raiju_Controller_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Raiju_Controller_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -2569,7 +2573,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Raiju_Controller_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Raiju_Controller_Pink.glb"
           }
         },
         {
@@ -2616,7 +2620,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Raiju_Controller_White.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Raiju_Controller_White.glb",
             "textureOverride": ""
           }
         },
@@ -2630,7 +2634,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Raiju_Controller_White.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Raiju_Controller_White.glb"
           }
         },
         {
@@ -2677,7 +2681,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Wildcat_Controller_Black.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Wildcat_Controller_Black.glb",
             "textureOverride": ""
           }
         },
@@ -2691,7 +2695,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Wildcat_Controller_Black.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Wildcat_Controller_Black.glb"
           }
         },
         {
@@ -2738,7 +2742,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Wildcat_Controller_Pink.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Wildcat_Controller_Pink.glb",
             "textureOverride": ""
           }
         },
@@ -2752,7 +2756,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Wildcat_Controller_Pink.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Wildcat_Controller_Pink.glb"
           }
         },
         {
@@ -2799,7 +2803,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Wildcat_Controller_White.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Wildcat_Controller_White.glb",
             "textureOverride": ""
           }
         },
@@ -2813,7 +2817,7 @@
         {
           "name": "interact",
           "props": {
-            "payloadModelUrl": "https://192.168.0.16:8642/projects/demo-xrengine-project/assets/Wildcat_Controller_White.glb"
+            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Wildcat_Controller_White.glb"
           }
         },
         {
@@ -2974,6 +2978,10 @@
           }
         },
         {
+          "name": "includeInCubemapBake",
+          "props": {}
+        },
+        {
           "name": "ambient-light",
           "props": {
             "color": "#5a72ac",
@@ -3014,10 +3022,14 @@
           }
         },
         {
+          "name": "includeInCubemapBake",
+          "props": {}
+        },
+        {
           "name": "directional-light",
           "props": {
             "color": "#9167cd",
-            "intensity": 0.26,
+            "intensity": 1,
             "castShadow": true,
             "shadowMapResolution": [
               512,
@@ -3032,6 +3044,66 @@
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
       "index": 46
+    },
+    "97E6C2CE-E83A-4A12-AAD5-882FAF44D18C": {
+      "name": "Cubemap Bake",
+      "components": [
+        {
+          "name": "transform",
+          "props": {
+            "position": {
+              "x": -3,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "name": "visible",
+          "props": {
+            "visible": true
+          }
+        },
+        {
+          "name": "cubemapbake",
+          "props": {
+            "options": {
+              "bakePosition": {
+                "x": -3,
+                "y": 0,
+                "z": 0
+              },
+              "bakePositionOffset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "bakeScale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "bakeType": 1,
+              "resolution": 512,
+              "refreshMode": 0,
+              "envMapOrigin": "__$project$__/demo-xrengine-project/assets/rooftop-Cubemap-Bake.png",
+              "boxProjection": true
+            }
+          }
+        }
+      ],
+      "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
+      "index": 47
     }
   }
 }
