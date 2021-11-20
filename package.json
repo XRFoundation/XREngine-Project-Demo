@@ -9,11 +9,5 @@
     "@xrengine/client": "^0.4.10",
     "@xrengine/client-core": "^0.4.10"
   },
-  "xrengine": {
-    "routes": [],
-    "thumbnail": "",
-    "moduleEntryPoints": [],
-    "clientReactEntryPoint": []
-  },
   "license": "ISC"
 }
