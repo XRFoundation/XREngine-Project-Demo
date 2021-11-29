@@ -5,7 +5,7 @@ const config: ProjectConfigInterface = {
   thumbnail: "/static/xrengine_thumbnail.jpg",
   routes: {},
   services: undefined,
-  databaseSeed: undefined,
+  databaseSeed: './locationseed.ts'
 }
 
 export default config
