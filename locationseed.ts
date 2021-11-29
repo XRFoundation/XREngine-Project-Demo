@@ -23,7 +23,7 @@ function toCapitalCase(str: string) {
 }
 
 fs.readdirSync(path.resolve(__dirname))
-  .filter(file => file.endsWith('scene.json'))
+  .filter(file => file.endsWith('.scene.json'))
   .forEach((sceneJson) => {
     const locationId = generateUUID()
     const settingsId = generateUUID()
