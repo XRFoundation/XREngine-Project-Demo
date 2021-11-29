@@ -49,6 +49,6 @@ fs.readdirSync(path.resolve(__dirname))
     locationSeed.templates.push(location)
   })
 
-console.log(locationSettingsSeed, locationSeed)
+// console.log(locationSettingsSeed, locationSeed)
 
 export default [locationSeed]
