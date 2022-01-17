@@ -1,9 +1,7 @@
 {
   "version": 4,
-  "root": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
   "entities": {
     "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC": {
-      "name": "black-sun-25-03-2021",
       "components": [
         {
           "name": "mtdata",
@@ -15,7 +13,7 @@
           "name": "fog",
           "props": {
             "type": "disabled",
-            "color": "#ffffff",
+            "color": {},
             "near": 0.0025,
             "far": 1000,
             "density": 0.0025
@@ -39,12 +37,6 @@
           }
         },
         {
-          "name": "simple-materials",
-          "props": {
-            "simpleMaterials": false
-          }
-        },
-        {
           "name": "renderer-settings",
           "props": {
             "LODs": {
@@ -63,15 +55,16 @@
           "name": "envmap",
           "props": {
             "type": 1,
-            "envMapIntensity": 4,
             "envMapTextureType": 0,
-            "envMapSourceURL": "/hdr/cubemap/BlackSun/"
+            "envMapSourceColor": {},
+            "envMapSourceURL": "/hdr/cubemap/BlackSun/",
+            "envMapIntensity": 4
           }
         }
-      ]
+      ],
+      "name": "black-sun-25-03-2021"
     },
     "633CD01A-BC2A-4584-99E2-2A3CFE2C8AD9": {
-      "name": "spawn point",
       "components": [
         {
           "name": "transform",
@@ -95,9 +88,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "spawn-point",
@@ -105,10 +96,10 @@
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 0
+      "index": 0,
+      "name": "spawn point"
     },
     "CD8E5818-7659-4675-9720-200657B9B7DF": {
-      "name": "model",
       "components": [
         {
           "name": "transform",
@@ -132,9 +123,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "gltf-model",
@@ -150,27 +139,13 @@
             "cast": true,
             "receive": true
           }
-        },
-        {
-          "name": "interact",
-          "props": {
-            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/BlackSunClub_Updated_Properties.glb"
-          }
-        },
-        {
-          "name": "collidable",
-          "props": {}
-        },
-        {
-          "name": "walkable",
-          "props": {}
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 1
+      "index": 1,
+      "name": "model"
     },
     "CEF7BCDE-4C78-45B7-A2DB-66F8159AA945": {
-      "name": "scene preview camera",
       "components": [
         {
           "name": "transform",
@@ -181,9 +156,9 @@
               "z": 10.5
             },
             "rotation": {
-              "x": -1.5172020675104425,
-              "y": -1.1260142889248805,
-              "z": -1.505961031609581
+              "x": -1.517202067510442,
+              "y": -1.1260142889248803,
+              "z": -1.5059610316095806
             },
             "scale": {
               "x": 1.0000000000000029,
@@ -194,9 +169,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "scene-preview-camera",
@@ -204,10 +177,10 @@
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 2
+      "index": 2,
+      "name": "scene preview camera"
     },
     "7E1140BE-ED5E-433B-A15A-24B4C53F666C": {
-      "name": "ambient light",
       "components": [
         {
           "name": "transform",
@@ -231,23 +204,21 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "ambient-light",
           "props": {
-            "color": "#7d689b",
+            "color": 8218779,
             "intensity": 1
           }
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 3
+      "index": 3,
+      "name": "ambient light"
     },
     "598264F5-62DE-46A8-B9FD-A2C0AD3EDE3E": {
-      "name": "post processing",
       "components": [
         {
           "name": "transform",
@@ -271,9 +242,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": false
-          }
+          "props": {}
         },
         {
           "name": "postprocessing",
@@ -360,10 +329,10 @@
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 4
+      "index": 4,
+      "name": "post processing"
     },
     "A2C572DD-F896-469E-8BEB-EA2B61D34B47": {
-      "name": "hemisphere light",
       "components": [
         {
           "name": "transform",
@@ -387,24 +356,22 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "hemisphere-light",
           "props": {
-            "skyColor": "#ffffff",
-            "groundColor": "#000000",
+            "skyColor": 16777215,
+            "groundColor": 0,
             "intensity": 0.5
           }
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 5
+      "index": 5,
+      "name": "hemisphere light"
     },
     "0EA643B7-AA51-4577-8380-30817ED665C9": {
-      "name": "portal-globe-theater",
       "components": [
         {
           "name": "transform",
@@ -428,46 +395,90 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "portal",
           "props": {
-            "locationName": "shopping district",
             "linkedPortalId": "5099606F-ED54-4138-9D13-20D8CED75607",
-            "displayText": "Back to the Shopping district",
             "spawnPosition": {
-              "x": 36.363575305866824,
-              "y": 0.5,
-              "z": 15.129194621843363
+              "x": 0,
+              "y": 0,
+              "z": 0
             },
             "spawnRotation": {
               "x": 0,
-              "y": 3.139831552697675,
-              "z": 0
-            },
-            "triggerPosition": {
-              "x": 0,
               "y": 0,
               "z": 0
-            },
-            "triggerRotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0
-            },
-            "triggerScale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             }
           }
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 6
+      "index": 6,
+      "name": "portal-globe-theater"
+    },
+    "446083A5-1D66-43C4-BE6A-2B5EE23A50EB": {
+      "components": [
+        {
+          "name": "transform",
+          "props": {
+            "position": {
+              "x": 6.5,
+              "y": 9,
+              "z": 7.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          }
+        },
+        {
+          "name": "visible",
+          "props": {}
+        },
+        {
+          "name": "audio",
+          "props": {
+            "audioSource": "/default_assets/audio/ui-hover.mp3",
+            "volume": 0.96,
+            "audioType": "Stereo",
+            "distanceModel": "linear",
+            "rolloffFactor": 1,
+            "refDistance": 20,
+            "maxDistance": 1000,
+            "coneInnerAngle": 120,
+            "coneOuterAngle": 180,
+            "coneOuterGain": 1
+          }
+        },
+        {
+          "name": "media",
+          "props": {
+            "controls": false,
+            "autoplay": false,
+            "autoStartTime": 0,
+            "loop": false
+          }
+        },
+        {
+          "name": "interactable",
+          "props": {
+            "interactable": true
+          }
+        }
+      ],
+      "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
+      "index": 7,
+      "name": "Audio"
     }
-  }
+  },
+  "root": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC"
 }

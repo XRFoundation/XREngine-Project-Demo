@@ -1,9 +1,7 @@
 {
   "version": 4,
-  "root": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
   "entities": {
     "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC": {
-      "name": "shopping-district-investors",
       "components": [
         {
           "name": "mtdata",
@@ -15,7 +13,7 @@
           "name": "fog",
           "props": {
             "type": "disabled",
-            "color": "#ffffff",
+            "color": {},
             "near": 0.0025,
             "far": 1000,
             "density": 0.0025
@@ -39,12 +37,6 @@
           }
         },
         {
-          "name": "simple-materials",
-          "props": {
-            "simpleMaterials": false
-          }
-        },
-        {
           "name": "renderer-settings",
           "props": {
             "LODs": {
@@ -63,15 +55,16 @@
           "name": "envmap",
           "props": {
             "type": 1,
-            "envMapIntensity": 0.9000000000000001,
             "envMapTextureType": 0,
-            "envMapSourceURL": "/hdr/cubemap/ShoppingDistrict/env/"
+            "envMapSourceColor": {},
+            "envMapSourceURL": "/hdr/cubemap/ShoppingDistrict/env/",
+            "envMapIntensity": 0.9000000000000001
           }
         }
-      ]
+      ],
+      "name": "shopping-district-investors"
     },
     "633CD01A-BC2A-4584-99E2-2A3CFE2C8AD9": {
-      "name": "spawn point",
       "components": [
         {
           "name": "transform",
@@ -83,7 +76,7 @@
             },
             "rotation": {
               "x": 3.141592653589793,
-              "y": -0.7853981633974483,
+              "y": -0.7853981633974485,
               "z": 3.141592653589793
             },
             "scale": {
@@ -95,9 +88,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "spawn-point",
@@ -105,10 +96,10 @@
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 0
+      "index": 0,
+      "name": "spawn point"
     },
     "CEF7BCDE-4C78-45B7-A2DB-66F8159AA945": {
-      "name": "scene preview camera",
       "components": [
         {
           "name": "transform",
@@ -132,9 +123,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "scene-preview-camera",
@@ -142,10 +131,10 @@
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 1
+      "index": 1,
+      "name": "scene preview camera"
     },
     "592EE7F5-A4EC-4300-B36B-246C4A088649": {
-      "name": "base model",
       "components": [
         {
           "name": "transform",
@@ -169,14 +158,12 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "gltf-model",
           "props": {
-            "src": "__$project$__/demo-xrengine-project/assets/Shopping District_v4 - With Slides.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Shopping%20District_v4%20-%20With%20Slides.glb",
             "textureOverride": "",
             "matrixAutoUpdate": false
           }
@@ -187,27 +174,13 @@
             "cast": true,
             "receive": true
           }
-        },
-        {
-          "name": "interact",
-          "props": {
-            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Shopping District_v4 - With Slides.glb"
-          }
-        },
-        {
-          "name": "collidable",
-          "props": {}
-        },
-        {
-          "name": "walkable",
-          "props": {}
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 2
+      "index": 2,
+      "name": "base model"
     },
     "1BD01244-4391-4F45-A8CF-80F5C30D9652": {
-      "name": "path",
       "components": [
         {
           "name": "transform",
@@ -231,14 +204,12 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "gltf-model",
           "props": {
-            "src": "__$project$__/demo-xrengine-project/assets/Shopping_District-for investors_path.glb",
+            "src": "__$project$__/demo-xrengine-project/assets/Shopping_District-for%20investors_path.glb",
             "textureOverride": "",
             "matrixAutoUpdate": true
           }
@@ -249,27 +220,13 @@
             "cast": false,
             "receive": false
           }
-        },
-        {
-          "name": "interact",
-          "props": {
-            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/Shopping_District-for investors_path.glb"
-          }
-        },
-        {
-          "name": "collidable",
-          "props": {}
-        },
-        {
-          "name": "walkable",
-          "props": {}
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 3
+      "index": 3,
+      "name": "path"
     },
     "EF41E889-EC56-46C2-8865-B3CFD9E4AC61": {
-      "name": "lights and post",
       "components": [
         {
           "name": "transform",
@@ -293,9 +250,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "group",
@@ -303,10 +258,10 @@
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 4
+      "index": 4,
+      "name": "lights and post"
     },
     "81F5FBBD-D827-4054-A864-EBFDFEADF856": {
-      "name": "skybox",
       "components": [
         {
           "name": "transform",
@@ -330,9 +285,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "skybox",
@@ -354,10 +307,10 @@
         }
       ],
       "parent": "EF41E889-EC56-46C2-8865-B3CFD9E4AC61",
-      "index": 0
+      "index": 0,
+      "name": "skybox"
     },
     "379E93BA-350B-47C3-ACE5-99EFDC5BA4C2": {
-      "name": "directional light",
       "components": [
         {
           "name": "transform",
@@ -368,7 +321,7 @@
               "z": -15.62
             },
             "rotation": {
-              "x": 0.5073587812525143,
+              "x": 0.507358781252514,
               "y": 0.8371914248498556,
               "z": -0.6424853525348049
             },
@@ -381,14 +334,12 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "directional-light",
           "props": {
-            "color": "#dba162",
+            "color": 14393698,
             "intensity": 2.5,
             "castShadow": true,
             "shadowMapResolution": [
@@ -403,10 +354,10 @@
         }
       ],
       "parent": "EF41E889-EC56-46C2-8865-B3CFD9E4AC61",
-      "index": 1
+      "index": 1,
+      "name": "directional light"
     },
     "529FF086-BAEE-416E-AD2A-A7BE63EE0D59": {
-      "name": "screens_kiosk",
       "components": [
         {
           "name": "transform",
@@ -430,9 +381,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "gltf-model",
@@ -448,27 +397,13 @@
             "cast": true,
             "receive": false
           }
-        },
-        {
-          "name": "interact",
-          "props": {
-            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/shopping_district_investors_video_kiosk.glb"
-          }
-        },
-        {
-          "name": "collidable",
-          "props": {}
-        },
-        {
-          "name": "walkable",
-          "props": {}
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 5
+      "index": 5,
+      "name": "screens_kiosk"
     },
     "E3FE0D85-DBE2-4E64-8B59-9644F82709DC": {
-      "name": "screens_tv",
       "components": [
         {
           "name": "transform",
@@ -492,9 +427,7 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "gltf-model",
@@ -510,27 +443,13 @@
             "cast": true,
             "receive": false
           }
-        },
-        {
-          "name": "interact",
-          "props": {
-            "payloadModelUrl": "__$project$__/demo-xrengine-project/assets/shopping_district_investors_video_TV.glb"
-          }
-        },
-        {
-          "name": "collidable",
-          "props": {}
-        },
-        {
-          "name": "walkable",
-          "props": {}
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 6
+      "index": 6,
+      "name": "screens_tv"
     },
     "D54809F0-18C2-48E6-B783-06EA11FA8F04": {
-      "name": "kiosk_video",
       "components": [
         {
           "name": "transform",
@@ -554,29 +473,60 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "video",
           "props": {
-            "src": "__$project$__/demo-xrengine-project/assets/Kiosk.mp4",
-            "isLivestream": false,
-            "controls": true,
-            "autoPlay": true,
-            "synchronize": 0,
-            "loop": true,
-            "volume": 1,
-            "projection": "flat"
+            "videoSource": "__$project$__/demo-xrengine-project/assets/Kiosk.mp4"
+          }
+        },
+        {
+          "name": "audio",
+          "props": {
+            "audioSource": "",
+            "volume": 0.5,
+            "audioType": "Positional",
+            "distanceModel": "linear",
+            "rolloffFactor": 1,
+            "refDistance": 20,
+            "maxDistance": 1000,
+            "coneInnerAngle": 120,
+            "coneOuterAngle": 180,
+            "coneOuterGain": 0
+          }
+        },
+        {
+          "name": "image",
+          "props": {
+            "imageSource": "",
+            "alphaCutoff": 0.5,
+            "alphaMode": "Opaque",
+            "projection": "Flat",
+            "side": 2
+          }
+        },
+        {
+          "name": "media",
+          "props": {
+            "controls": false,
+            "autoplay": true,
+            "autoStartTime": 0,
+            "loop": false
+          }
+        },
+        {
+          "name": "interactable",
+          "props": {
+            "interactable": false
           }
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 7
+      "index": 7,
+      "name": "kiosk_video"
     },
     "4DE69501-734B-43A5-9ADD-B009AF809BF4": {
-      "name": "tv_video ",
       "components": [
         {
           "name": "transform",
@@ -600,26 +550,59 @@
         },
         {
           "name": "visible",
-          "props": {
-            "visible": true
-          }
+          "props": {}
         },
         {
           "name": "video",
           "props": {
-            "src": "__$project$__/demo-xrengine-project/assets/TV.mp4",
-            "isLivestream": false,
-            "controls": true,
-            "autoPlay": true,
-            "synchronize": 0,
-            "loop": true,
-            "volume": 1,
-            "projection": "flat"
+            "videoSource": "__$project$__/demo-xrengine-project/assets/TV.mp4"
+          }
+        },
+        {
+          "name": "audio",
+          "props": {
+            "audioSource": "",
+            "volume": 0.5,
+            "audioType": "Positional",
+            "distanceModel": "linear",
+            "rolloffFactor": 1,
+            "refDistance": 20,
+            "maxDistance": 1000,
+            "coneInnerAngle": 120,
+            "coneOuterAngle": 180,
+            "coneOuterGain": 0
+          }
+        },
+        {
+          "name": "image",
+          "props": {
+            "imageSource": "",
+            "alphaCutoff": 0.5,
+            "alphaMode": "Opaque",
+            "projection": "Flat",
+            "side": 2
+          }
+        },
+        {
+          "name": "media",
+          "props": {
+            "controls": false,
+            "autoplay": true,
+            "autoStartTime": 0,
+            "loop": false
+          }
+        },
+        {
+          "name": "interactable",
+          "props": {
+            "interactable": false
           }
         }
       ],
       "parent": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC",
-      "index": 8
+      "index": 8,
+      "name": "tv_video"
     }
-  }
+  },
+  "root": "2266BED7-6CC4-48A6-95DD-9BCD3CF9EAFC"
 }
